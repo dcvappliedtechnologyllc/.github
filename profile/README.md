@@ -22,6 +22,7 @@ hardware released as open hardware, and the bench tooling built along the way.
 | [camlab](https://github.com/dcvappliedtechnologyllc/camlab) | Claude-in-the-loop camera and lighting optimizer for a tethered Canon and Godox mesh lights, with reusable camera and light control layers. |
 | [trimlab](https://github.com/dcvappliedtechnologyllc/trimlab) | One-clip video trimmer for macOS: pywebview UI over a Python/ffmpeg core. |
 | [trimlab2](https://github.com/dcvappliedtechnologyllc/trimlab2) | The trimlab rewrite: a native SwiftUI + AVFoundation Mac app for cutting multi-clip Instagram Reels. |
+| [gallowtech-interface](https://github.com/dcvappliedtechnologyllc/gallowtech-interface) | A Claude skill and CadQuery library for 3D-printed mounts that hook into Gallowtech slotted steel wall panels. |
 
 Everything here is built for our own bench first and published as-is. Issues
 and pull requests are welcome; the licence of each repository governs reuse.
